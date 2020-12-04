@@ -1,0 +1,17 @@
+{
+  "name": "JAMstack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/awaisjuno/JAMstack.git",
+  "author": "awaisjuno <awaisjuno2011@hotmail.com>",
+  "linense": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "dependencies": {
+    "gatsby": "^2.28.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
